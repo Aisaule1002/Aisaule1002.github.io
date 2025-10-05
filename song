@@ -1,0 +1,14 @@
+/public
+  /songs  (optional: audio files)
+/src
+  App.js
+  components/
+    SongList.js
+    SongDetail.js
+    Exercise.js
+    VocabTooltip.js
+  data/
+    songs.json
+    vocab.json
+  styles/
+    ...
